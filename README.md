@@ -1,1 +1,1 @@
-# P2P-Chat-application
+# Chat-application
